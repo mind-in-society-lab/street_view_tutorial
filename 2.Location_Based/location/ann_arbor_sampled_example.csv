@@ -1,0 +1,6 @@
+name,place_id,geometry.location.lat,geometry.location.lng,address,loc_id
+Pattengill Elementary School,ChIJiSoRUAevPIgRldxh06niE78,42.2554395,-83.7193767,"2100 Crestland Dr, Ann Arbor, MI 48104, USA",AA_SCH_1
+Lawton Elementary School,ChIJ8UCcwiewPIgRR-8-zj-NeAo,42.2532135,-83.76395099999999,"2250 S 7th St, Ann Arbor, MI 48103, USA",AA_SCH_2
+South Arbor Charter Academy,ChIJubAVRCakPIgRDOqP3ExI_10,42.1694405,-83.6814749,"8200 Carpenter Rd, Ypsilanti, MI 48197, USA",AA_SCH_3
+Burns Park Elementary School,ChIJJ5g7_k2uPIgRyF_p9PMgPao,42.26606109999999,-83.7303245,"1414 Wells St, Ann Arbor, MI 48104, USA",AA_SCH_4
+Bach Elementary School,ChIJryZMUSSuPIgRO5x5Mhoymyw,42.2762088,-83.7551859,"600 W Jefferson St, Ann Arbor, MI 48103, USA",AA_SCH_5

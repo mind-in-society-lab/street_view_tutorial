@@ -1,0 +1,45 @@
+business_status,plus_code.compound_code,name,place_id,types,geometry.location.lat,geometry.location.lng
+OPERATIONAL,"772Q+GH Ann Arbor, Michigan, USA",Allen Elementary School,ChIJ9QgRABCvPIgR0FHFBIjRdAw,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.251514,-83.71121780000001
+OPERATIONAL,"772Q+GH Ann Arbor, Michigan, USA",Allen Elementary School,ChIJ9QgRABCvPIgR0FHFBIjRdAw,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.251514,-83.71121780000001
+OPERATIONAL,"774J+45 Ann Arbor, Michigan, USA",Pattengill Elementary School,ChIJiSoRUAevPIgRldxh06niE78,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2554395,-83.7193767
+OPERATIONAL,"68XF+7J Ann Arbor, Michigan, USA",Carpenter Elementary School,ChIJ95BjXc2oPIgRrdTj78EtWww,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2482307,-83.6759694
+OPERATIONAL,"68XF+7J Ann Arbor, Michigan, USA",Carpenter Elementary School,ChIJ95BjXc2oPIgRrdTj78EtWww,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2482307,-83.6759694
+OPERATIONAL,"7789+9V Ann Arbor, Michigan, USA",Burns Park Elementary School,ChIJJ5g7_k2uPIgRyF_p9PMgPao,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.26606109999999,-83.7303245
+OPERATIONAL,"67JM+XP Ann Arbor, Michigan, USA",Bryant Elementary School,ChIJYy0eE3evPIgRUO4IyzCbQBU,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.23287699999999,-83.71573939999999
+OPERATIONAL,"7825+26 Ann Arbor, Michigan, USA",Pittsfield Elementary School,ChIJWx_hrySvPIgR-3BhMO5P7dY,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2500431,-83.6920316
+OPERATIONAL,"77FC+QW Ann Arbor, Michigan, USA",Angell Elementary School,ChIJXfh_OluuPIgRniLoh-SGpzo,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.27465919999999,-83.7277371
+OPERATIONAL,"7842+63 Ann Arbor, Michigan, USA",Summers-Knoll School,ChIJH-7TaQOvPIgRBWwNq5OcfHs,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2555049,-83.6997906
+OPERATIONAL,"76XJ+86 Ann Arbor, Michigan, USA",Wines Elementary School,ChIJaQkg3fuxPIgR8dHFZLKg_f8,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2979211,-83.7693628
+OPERATIONAL,"76V8+G2 Ann Arbor, Michigan, USA",Abbot Elementary School,ChIJk-hJsJKxPIgRdK_5ti1KZbY,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2935348,-83.7850564
+OPERATIONAL,"7789+9V Ann Arbor, Michigan, USA",Burns Park Elementary School,ChIJJ5g7_k2uPIgRyF_p9PMgPao,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.26606109999999,-83.7303245
+OPERATIONAL,"763P+F7 Ann Arbor, Michigan, USA",Lawton Elementary School,ChIJ8UCcwiewPIgRR-8-zj-NeAo,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2532135,-83.76395099999999
+OPERATIONAL,"7825+26 Ann Arbor, Michigan, USA",Pittsfield Elementary School,ChIJWx_hrySvPIgR-3BhMO5P7dY,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2500431,-83.6920316
+OPERATIONAL,"68P4+QR Ann Arbor, Michigan, USA",Mitchell Elementary School,ChIJQYKjOkevPIgRNBcgyKyYsfs,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2370011,-83.6929488
+OPERATIONAL,"76GV+HV Ann Arbor, Michigan, USA",Bach Elementary School,ChIJryZMUSSuPIgRO5x5Mhoymyw,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2762088,-83.7551859
+OPERATIONAL,"68P4+QR Ann Arbor, Michigan, USA",Mitchell Elementary School,ChIJQYKjOkevPIgRNBcgyKyYsfs,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2370011,-83.6929488
+OPERATIONAL,"76XJ+86 Ann Arbor, Michigan, USA",Wines Elementary School,ChIJaQkg3fuxPIgR8dHFZLKg_f8,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2979211,-83.7693628
+OPERATIONAL,"7842+63 Ann Arbor, Michigan, USA",Summers-Knoll School,ChIJH-7TaQOvPIgRBWwNq5OcfHs,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2555049,-83.6997906
+OPERATIONAL,"877R+36 Ann Arbor, Michigan, USA",Logan Elementary School,ChIJzyUJazCsPIgRe_Vsva6xRUU,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3125086,-83.7097287
+OPERATIONAL,"877R+36 Ann Arbor, Michigan, USA",Logan Elementary School,ChIJzyUJazCsPIgRe_Vsva6xRUU,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3125086,-83.7097287
+OPERATIONAL,"874X+H9 Ann Arbor, Michigan, USA",Thurston Elementary School,ChIJqYDDsSOsPIgR1zkmXdoenrg,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3062136,-83.7016913
+OPERATIONAL,"76G5+RQ Ann Arbor, Michigan, USA",Lakewood Elementary School,ChIJTzrxN7qxPIgRpaA-9ehFyY4,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2770217,-83.7905301
+OPERATIONAL,"76G5+RQ Ann Arbor, Michigan, USA",Lakewood Elementary School,ChIJTzrxN7qxPIgRpaA-9ehFyY4,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2770217,-83.7905301
+OPERATIONAL,"76QF+WC Ann Arbor, Michigan, USA",Haisley Elementary School,ChIJjctjOu-xPIgRRQ7n3nLpWuU,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2895768,-83.7760888
+OPERATIONAL,"78M7+WH Ann Arbor, Michigan, USA",Martin Luther King Elementary School,ChIJrZp1l7CuPIgRC-H7xRlsNR4,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2847783,-83.68610199999999
+OPERATIONAL,"78M7+WH Ann Arbor, Michigan, USA",Martin Luther King Elementary School,ChIJrZp1l7CuPIgRC-H7xRlsNR4,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2847783,-83.68610199999999
+OPERATIONAL,"77X8+HV Ann Arbor, Michigan, USA",Ann Arbor STEAM at Northside,ChIJsz6M_nauPIgR2g84Oya6Qbw,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.298963,-83.7328342
+OPERATIONAL,"874X+H9 Ann Arbor, Michigan, USA",Thurston Elementary School,ChIJqYDDsSOsPIgR1zkmXdoenrg,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3062136,-83.7016913
+OPERATIONAL,"7537+GM Ann Arbor, Michigan, USA",Emerson School,ChIJ7_bpjsWwPIgRaJJcT61R4So,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2538316,-83.835698
+OPERATIONAL,"767F+5F Ann Arbor, Michigan, USA",Dicken Elementary School,ChIJu9vW6TKwPIgRJmc2qfxm5pA,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.2629076,-83.7763432
+OPERATIONAL,"867G+FX Ann Arbor, Michigan, USA",Rudolf Steiner School of Ann Arbor,ChIJETw3ABCyPIgRhigZr1X3j5U,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3136829,-83.77255939999999
+OPERATIONAL,"963X+JX Ann Arbor, Michigan, USA",Ann Arbor Christian School,ChIJ1SluE2-tPIgR2t57M0S5d6M,"['secondary_school', 'primary_school', 'school', 'point_of_interest', 'establishment']",42.3541207,-83.7500841
+OPERATIONAL,"77X8+HV Ann Arbor, Michigan, USA",Ann Arbor STEAM at Northside,ChIJsz6M_nauPIgR2g84Oya6Qbw,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.298963,-83.7328342
+OPERATIONAL,"8525+4Q Ann Arbor, Michigan, USA",Daycroft School,ChIJI-zuV1CxPIgR9cgNYsTUudo,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3002935,-83.8405755
+OPERATIONAL,"7663+H8 Ann Arbor, Michigan, USA",Honey Creek Community School,ChIJ51oEUFGwPIgR0rBD7Cyd08c,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.261402,-83.7967022
+OPERATIONAL,"777W+56 Ann Arbor, Michigan, USA",Ann Arbor Hills Child Development Center,ChIJe87tMeKuPIgRVFWuWyeOdBY,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.26295959999999,-83.7044284
+OPERATIONAL,"867G+FX Ann Arbor, Michigan, USA",Rudolf Steiner School of Ann Arbor,ChIJETw3ABCyPIgRhigZr1X3j5U,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3136829,-83.77255939999999
+OPERATIONAL,"8PWQ+RH Detroit, Michigan, USA",Ann Arbor Trail Magnet Middle School,ChIJv-inPq5KO4gRZb3lYAB1dVc,"['primary_school', 'school', 'point_of_interest', 'establishment']",42.3471096,-83.2605981
+OPERATIONAL,"38R9+4P Milan, Michigan, USA",Paddock Elementary School,ChIJOdgiTSaiPIgRGSHKr46MS58,"['primary_school', 'point_of_interest', 'school', 'establishment']",42.0903492,-83.68040859999999
+OPERATIONAL,"V5CM+9V Ashtabula, Ohio, USA",Michigan Primary School,ChIJbVOAUlH1MYgRFD9SUlm0IfM,"['primary_school', 'point_of_interest', 'school', 'establishment']",41.8709297,-80.815277
+OPERATIONAL,"WXJ7+9H Almont, Michigan, USA",Orchard Primary School,ChIJC88N9vf4JIgRdTE4l9tAbFw,"['primary_school', 'point_of_interest', 'school', 'establishment']",42.9309316,-83.0360024
+OPERATIONAL,"5899+HC Ypsilanti, Michigan, USA",South Arbor Charter Academy,ChIJubAVRCakPIgRDOqP3ExI_10,"['school', 'primary_school', 'point_of_interest', 'establishment']",42.1694405,-83.6814749
