@@ -43,16 +43,16 @@ This tutorial was written in a Google Colab environment. To replicate the same e
 - Click on the `Code` button (usually a green button near the top right) and select `Download ZIP`.
 - Once the ZIP file is downloaded, **extract** its contents to a folder on your local computer.
 - Open Google Drive in your web browser.
-- Click on the `+ New` button on the left sidebar and select `Folder` to create a new folder.
+- Click on the `+ New` button on the left sidebar and select `New folder` to create a new folder.
 - Name the folder appropriately, such as “Street_View_Project”.
 - Once the folder is created, navigate to the folder.
-- Upload the **extracted folder** (containing all the files and subfolders) from your local computer to this Google Drive folder by either dragging and dropping it into the folder or by clicking the `+ New` button again and selecting `File upload`.
+- Upload the **extracted folder** (containing all the files and subfolders) from your local computer to this Google Drive folder by either dragging and dropping it into the folder or by clicking the `+ New` button again and selecting `File upload` or `Folder upload`.
 
 ### 2. Opening the Jupyter Notebooks in Google Colab:
 
 - Open Google Drive and navigate to the folder where you uploaded the extracted project folder.
 - Inside the uploaded folder, locate the specific Jupyter notebook file you want to work with (e.g., `StreetView_Demo.ipynb`).
-- Double-click the notebook file to open it in a new Google Colab tab.
+- Double-click the notebook file to open it in a new Google Colab tab. If it's your first time using Google Colab, you'll need to install it. Right-click the notebook file, select 'Open with', then 'Connect more apps', search for 'Colaboratory', and install it.
 - Ensure you are signed in with your Google account to access Google Colab.
 - If prompted, authorize Google Colab to access your Google Drive files.
 
