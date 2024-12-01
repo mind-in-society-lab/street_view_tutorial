@@ -1,22 +1,32 @@
 ## **Streetscapes at Scale: Mapping Platform APIs as a Tool to Sample Space**
 
-This project focuses on using the Google Street View API to collect and analyze streetscape images from various regions. The project consists of three Jupyter notebooks, each designed for specific analysis purposes. Through this tutorial, you will learn how to effectively utilize the Google Street View API to analyze urban environments.
+This project focuses on using the Google Street View API to collect and analyze streetscape images from various regions. The project consists of three Jupyter notebooks, each designed for specific analysis purposes. Through this tutorial, you will learn how to effectively utilize the Google Static Street View API to analyze urban environments.
+
+
+
 
 ## Project Structure
 
 The project is organized into three main folders. Each folder contains one Jupyter notebook file specific to a different aspect of the sampling Street View images, along with any necessary files (such as CSVs, shapefiles, etc.) needed for the tutorial. Additionally, the folders also store the output files generated when running the notebooks.
 
-### 1. `StreetView_Demo`
+### `1A.StreetViewStreetscapeCapture`
 
-This folder contains the first notebook (`StreetView_Demo.ipynb`) of this tutorial, which demonstrates the basic method of collecting streetscape images using the Google Street View Static API. You can obtain Street View images of specific location(s) through API calls and combine them with Python's data processing and visualization tools for analysis.
+This folder contains the first notebook (`StreetViewStreetscapeCapture.ipynb`) of this tutorial, which demonstrates the basic method of collecting streetscape images using the Google Static Street View API. You can obtain Street View images of specific location(s) through API calls and combine them with Python's data processing and visualization tools for analysis.
 
-### 2. `Location_Based`
+### `1B.MapillaryStreetscapeCapture`
 
-The second folder includes the `Location_Based.ipynb` notebook, which covers how to collect Street View images based on specific locations, using the 'Text Search' function of Google Places API. This approach allows users to specify location queries, such as place names or types, and retrieve corresponding Street View images for those locations.
+This folder contains the `MapillaryStreetscapeCapture.ipynb` notebook, which replicates the basic method of collecting streetscape images demonstrated in `1A.StreetViewStreetscapeCapture`, but using the free Mapillary API instead of the Google Static Street View API.
 
-### 3. `Region_Based`
+### `2.LocationBasedSampling`
 
-This folder contains the `Region_Based.ipynb` notebook, which explains how to collect and analyze images based on a designated region. We use a shapefile, which is a widely used geospatial vector data format that contains geometry data. Using a shapefile, you can collect Street View images from randomly sampled points within a specified area. Additionally, you can tessellate the specified area (divide the area into smaller cells) as needed for more detailed analysis.
+This folder contains the `LocationBasedSampling.ipynb` notebook, which covers how to collect Street View images based on specific locations, using the 'Text Search' function of Google Places API. This approach allows users to specify location queries, such as place names or types, and retrieve corresponding Street View images for those locations.
+
+### `3.RegionBasedSampling`
+
+This folder contains the `RegionBasedSampling.ipynb` notebook, which explains how to collect and analyze images based on a designated region. We use a shapefile, which is a widely used geospatial vector data format that contains geometry data. Using a shapefile, you can collect Street View images from randomly sampled points within a specified area. Additionally, you can tessellate the specified area (divide the area into smaller cells) as needed for more detailed analysis.
+
+
+
 
 ## Requirements
 
@@ -32,6 +42,8 @@ This project relies on the following Python packages:
 - **shapely**: 2.0.5
 - **h3**: 3.7.7
 - **s2sphere**: 0.2.5
+
+
 
 ## Running on Google Colab
 
