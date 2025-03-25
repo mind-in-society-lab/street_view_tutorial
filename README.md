@@ -75,4 +75,4 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 
 ## Citation
 
-If you use this project in your research or any derivative work, please cite the associated paper.
+If you use this project in your research or any derivative work, please cite the [associated paper](https://www.dropbox.com/scl/fi/6bp0h4zuwvpnkxynk3vhg/StreetScapes_SocCog_InPress.pdf?rlkey=kkzgjmf78xrgacqio5hwiz20y&st=ifu10ak5&dl=0) (in press at Social Cognition).
