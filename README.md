@@ -75,4 +75,4 @@ This project is licensed under the [Creative Commons Attribution-ShareAlike 4.0 
 
 ## Citation
 
-If you use this project in your research or any derivative work, please cite the [associated paper](https://www.dropbox.com/scl/fi/6bp0h4zuwvpnkxynk3vhg/StreetScapes_SocCog_InPress.pdf?rlkey=kkzgjmf78xrgacqio5hwiz20y&st=ifu10ak5&dl=0) (in press at Social Cognition).
+If you use this project in your research or any derivative work, please cite the [associated paper]([https://www.dropbox.com/scl/fi/6bp0h4zuwvpnkxynk3vhg/StreetScapes_SocCog_InPress.pdf?rlkey=kkzgjmf78xrgacqio5hwiz20y&st=ifu10ak5&dl=0](https://guilfordjournals.com/doi/pdf/10.1521/soco.2025.43.3.257)): Camp, N. P., & Jo, E. (2025). Streetscapes at scale: Mapping platform APIs as a tool to sample space. Social Cognition, 43(3), 257-275..
