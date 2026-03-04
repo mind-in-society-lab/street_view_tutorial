@@ -1,10 +1,10 @@
----
+***
 ### 📬 Contact
 If you have any questions about the code or API usage, feel free to reach out to Ara!
 - 📧 **Email**: [arajo@umich.edu](mailto:arajo@umich.edu)
 - 💬 **Discord**: `arrrrrrrrrrrra`
 - 💼 **LinkedIn**: [Ara Jo](https://www.linkedin.com/in/eunkyung-jo-b81553194/)
----
+***
 
 ## **Streetscapes at Scale: Mapping Platform APIs as a Tool to Sample Space**
 
