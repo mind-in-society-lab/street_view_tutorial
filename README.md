@@ -1,3 +1,11 @@
+---
+### 📬 Contact
+If you have any questions about the code or API usage, feel free to reach out to Ara!
+- 📧 **Email**: [arajo@umich.edu](mailto:arajo@umich.edu)
+- 💬 **Discord**: `arrrrrrrrrrrra`
+- 💼 **LinkedIn**: [Ara Jo](https://www.linkedin.com/in/eunkyung-jo-b81553194/)
+---
+
 ## **Streetscapes at Scale: Mapping Platform APIs as a Tool to Sample Space**
 
 This project focuses on using the Google Street View API to collect and analyze streetscape images from various regions. The project consists of three Jupyter notebooks, each designed for specific analysis purposes. Through this tutorial, you will learn how to effectively utilize the Google Static Street View API to analyze urban environments.
